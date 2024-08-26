@@ -11,7 +11,7 @@ Here's how it looks:
 
 - **Start and Stop Webcam**: Toggle your webcam feed with a click.
 - **Draggable Webcam Feed**: Move the feed anywhere on the browser window.
-- **Dynamic Resizing**: Drag the video feed, and it enlarges by 50% for better visibility, reverting to the original size after a brief moment. [TODO]
+- **Dynamic Resizing**: Drag the video feed, and it enlarges by 50% for better visibility, reverting to the original size after a brief moment.
 
 ## Installation
 
